@@ -2,7 +2,7 @@
 
 **Instructor:** Eunseo Choi
 
-**Time and Location:** MWF, 10:20 - 11:15 am.
+**Time and Location:** MW, 10:20 - 11:45 am.
 
 **Contact:** echoi2\@memphis.edu
 
