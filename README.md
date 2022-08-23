@@ -40,7 +40,7 @@ To achieve the goal, we will
 ## References and Online Resources
 
 No required textbook but parts of the references listed below will be
-used.\
+used.
 
 ### Reference texts[^1]
 [^1]: $^{\dagger}$ means that the UofM Library has an ebook version.
